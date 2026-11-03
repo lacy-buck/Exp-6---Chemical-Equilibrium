@@ -1,0 +1,6 @@
+{
+  "name": "Chemical Equilibrium Virtual Lab - Le Châtelier's Principle",
+  "description": "Interactive chemistry virtual laboratory for Experiment 6: Demonstrating Chemical Equilibrium Using Le Châtelier's Principle, with Part A Fe3+/SCN- wellplate reactions, Part B thermochromic cobalt equilibrium, molecular inspector, and complete student lab report sheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
